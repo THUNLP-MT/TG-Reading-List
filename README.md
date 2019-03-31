@@ -6,7 +6,7 @@ This is a text generation reading list by the Tsinghua Natural Language Processi
     * [Text Generation](#text_generation)
 * [Tools](#tools)
 * [Papers](#papers)
-    * [5 Must Reads](#5_must_reads)
+    * [Prepare Papers](#prepare_papers)
     * [Seq2Seq Based](#seq2seq_based)
     * [VAE Based](#vae_based)
     * [GAN Based](#gan_based)
@@ -33,7 +33,7 @@ This is a text generation reading list by the Tsinghua Natural Language Processi
 
 <h2 id="papers">Papers</h2>
 
-<h3 id="5_must_reads">5 Must Reads</h2>
+<h3 id="prepare_papers">Prepare Papers</h2>
 
 * Kingma, Diederik P and Welling, Max. 2014. [Auto-encoding variational bayes](https://arxiv.org/pdf/1312.6114). In *Proceedings of ICLR 2014*. ([Citation](https://scholar.google.com/scholar?cites=10486756931164834716&as_sdt=2005&sciodt=0,5&hl=en): 4,317)
 * Ilya Sutskever, Oriol Vinyals, and Quoc V. Le. 2014. [Sequence to Sequence Learning
