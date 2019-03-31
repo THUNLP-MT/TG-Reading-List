@@ -8,7 +8,7 @@ This is a text generation reading list by the Tsinghua Natural Language Processi
 * [Papers](#papers)
     * [Prepare Papers](#prepare_papers)
     * [Seq2Seq Based](#seq2seq_based)
-    * [VAE Based](#vae_based)
+    * [Variational Autoencoder Based](#vae_based)
     * [GAN Based](#gan_based)
     * [Reinforcement Learning Based](#rl_based)
     * [Knowledge Based](#kbs_based)
@@ -58,7 +58,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Kezar, Lee. 2018. [Mixed Feelings: Natural Text Generation with Variable, Coexistent Affective Categories](http://www.aclweb.org/anthology/P18-3020). In *Proceedings of ACL 2018, Student Research Workshop*.
 * Welleck, Sean and Brantley, Kianté and Daumé III, Hal and Cho, Kyunghyun. 2019. [Non-Monotonic Sequential Text Generation](https://arxiv.org/pdf/1902.02192). *arXiv preprint arXiv:1902.02192*. ([Citation](https://scholar.google.com/scholar?cites=16018486661840997659&as_sdt=2005&sciodt=0,5&hl=en): 1)
 
-<h3 id="vae_based">VAE Based</h3>
+<h3 id="vae_based">Variational Autoencoder Based</h3>
 
 * Li, Jiwei and Luong, Thang and Jurafsky, Dan. 2015. [A Hierarchical Neural Autoencoder for Paragraphs and Documents](http://aclweb.org/anthology/P15-1107). In *Proceedings of ACL 2015*. ([Citation](https://scholar.google.com/scholar?cites=8614969202104458050&as_sdt=2005&sciodt=0,5&hl=en): 283)
 * Semeniuta, Stanislau and Severyn, Aliaksei and Barth, Erhardt. 2017. [A Hybrid Convolutional Variational Autoencoder for Text Generation](https://arxiv.org/pdf/1702.02390). In *Proceedings of EMNLP 2017*. ([Citation](https://scholar.google.com/scholar?cites=22686147435504388&as_sdt=2005&sciodt=0,5&hl=en): 57)
