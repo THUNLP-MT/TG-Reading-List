@@ -1,7 +1,7 @@
 # Text Generation Reading List
 This is a text generation reading list by the Tsinghua Natural Language Processing Group.
 
-* [Dataset](#dataset)
+* [Datasets](#datasets)
     * [Story Generation](#story_generation)
     * [Text Generation](#text_generation)
 * [Tools](#tools)
@@ -13,7 +13,7 @@ This is a text generation reading list by the Tsinghua Natural Language Processi
     * [Reinforcement Learning Based Methods](#rl_based)
     * [Knowledge Based Methods](#kbs_based)
 
-<h2 id="dataset">Dataset</h2>
+<h2 id="datasets">Datasets</h2>
 
 <h3 id="story_generation">Story Generation</h2>
 
