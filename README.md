@@ -9,7 +9,7 @@ This is a text generation reading list by the Tsinghua Natural Language Processi
     * [Prepare Papers](#prepare_papers)
     * [Seq2Seq Based](#seq2seq_based)
     * [Variational Autoencoder Based](#vae_based)
-    * [GAN Based](#gan_based)
+    * [Generative Adversarial Nets Based](#gan_based)
     * [Reinforcement Learning Based](#rl_based)
     * [Knowledge Based](#kbs_based)
 
@@ -71,7 +71,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Xu, Jiacheng and Durrett, Greg. 2018. [Spherical Latent Spaces for Stable Variational Autoencoders](https://aclweb.org/anthology/D18-1480). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=4068019460537216592&as_sdt=2005&sciodt=0,5&hl=en): 6)
 
 
-<h3 id="gan_based">GAN Based</h3>
+<h3 id="gan_based">Generative Adversarial Nets Based</h3>
 
 * Kusner, Matt J and Hernández-Lobato, José Miguel. 2016. [GANS for Sequences of Discrete Elements with the Gumbel-softmax Distribution](https://arxiv.org/pdf/1611.04051). *arXiv preprint arXiv:1611.04051*. ([Citation](https://scholar.google.com/scholar?cites=11002066464238691420&as_sdt=2005&sciodt=0,5&hl=en): 71)
 * Gulrajani, Ishaan and Ahmed, Faruk and Arjovsky, Martin and Dumoulin, Vincent and Courville, Aaron C. 2017. [Improved Training of Wasserstein GANs](https://papers.nips.cc/paper/7159-improved-training-of-wasserstein-gans.pdf). In *Proceedings of NIPS 2017*. ([Citation](https://scholar.google.com/scholar?cites=3068694056154618633&as_sdt=2005&sciodt=0,5&hl=en): 1,102)
