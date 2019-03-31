@@ -27,6 +27,7 @@ This is a text generation reading list by the Tsinghua Natural Language Processi
 * [Amazon Review Generation Dataset](https://s3.amazonaws.com/amazon-reviews-pds/readme.html): McAuley, Julian John and Leskovec, Jure. 2013. [From Amateurs to Connoisseurs: Modeling The Evolution of User Expertise Through Online Reviews](https://arxiv.org/pdf/1303.4402). In *Proceedings of WWW 2013*.
 
 <h2 id="tools">Tools</h2>
+
 * Hu, Zhiting and Yang, Zichao and Zhao, Tiancheng and Shi, Haoran and He, Junxian and Wang, Di and Ma, Xuezhe and Liu, Zhengzhong and Liang, Xiaodan and Qin, Lianhui and others. 2018. [Texar:  A Modularized, Versatile, and Extensible Toolbox for Text Generation](http://www.aclweb.org/anthology/W18-2503). In *Proceedings of ACL 2018*. ([GitHub](https://github.com/asyml/texar))
 * Zhu, Yaoming and Lu, Sidi and Zheng, Lei and Guo, Jiaxian and Zhang, Weinan and Wang, Jun and Yu, Yong. 2018. [Textgen: A Benchmarking Platform for Text Generation Models](https://arxiv.org/pdf/1802.01886). In *Proceedings of SIGIR 2018*. ([GitHub](https://github.com/geek-ai/Texygen))
 
