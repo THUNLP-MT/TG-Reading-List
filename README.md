@@ -7,11 +7,11 @@ This is a text generation reading list by the Tsinghua Natural Language Processi
 * [Tools](#tools)
 * [Papers](#papers)
     * [Prepare Papers](#prepare_papers)
-    * [Seq2Seq Based](#seq2seq_based)
-    * [Variational Autoencoder Based](#vae_based)
-    * [Generative Adversarial Nets Based](#gan_based)
-    * [Reinforcement Learning Based](#rl_based)
-    * [Knowledge Based](#kbs_based)
+    * [Seq2Seq Based Methods](#seq2seq_based)
+    * [Variational Autoencoder Based Methods](#vae_based)
+    * [Generative Adversarial Nets Based Methods](#gan_based)
+    * [Reinforcement Learning Based Methods](#rl_based)
+    * [Knowledge Based Methods](#kbs_based)
 
 <h2 id="dataset">Dataset</h2>
 
@@ -42,7 +42,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. 2015. [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473.pdf). In *Proceedings of ICLR 2015*. ([Citation](https://scholar.google.com/scholar?cites=9430221802571417838&as_sdt=2005&sciodt=0,5&hl=en): 6,317)
 * Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. 2017. [Attention is All You Need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf). In *Proceedings of NIPS 2017*. ([Citation](https://scholar.google.com/scholar?cites=2960712678066186980&as_sdt=2005&sciodt=0,5&hl=en): 1,393)
 
-<h3 id="seq2seq_based">Seq2Seq Based</h3>
+<h3 id="seq2seq_based">Seq2Seq Based Methods</h3>
 
 * Huang, Ting-Hao (Kenneth) and Ferraro, Francis and Mostafazadeh, Nasrin and Misra, Ishan and Agrawal, Aishwarya and Devlin, Jacob and Girshick, Ross and He, Xiaodong and Kohli, Pushmeet and Batra, Dhruv and Zitnick, C. Lawrence and Parikh, Devi and Vanderwende, Lucy and Galley, Michel and Mitchell, Margaret. 2016. [Visual Storytelling](https://www.aclweb.org/anthology/N16-1147v1). In *Proceedings of ACL 2016*. ([Citation](https://scholar.google.com/scholar?cites=9965124402549083081&as_sdt=2005&sciodt=0,5&hl=en): 76)
 * Melissa Roemmele. 2016. [Writing Stories with Help from Recurrent Neural Networks](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/11966/12271). In *Proceedings of AAAI 2016*. ([Citation](https://scholar.google.com/scholar?cites=9018102316841841981&as_sdt=2005&sciodt=0,5&hl=en): 13)
@@ -58,7 +58,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Kezar, Lee. 2018. [Mixed Feelings: Natural Text Generation with Variable, Coexistent Affective Categories](http://www.aclweb.org/anthology/P18-3020). In *Proceedings of ACL 2018, Student Research Workshop*.
 * Welleck, Sean and Brantley, Kianté and Daumé III, Hal and Cho, Kyunghyun. 2019. [Non-Monotonic Sequential Text Generation](https://arxiv.org/pdf/1902.02192). *arXiv preprint arXiv:1902.02192*. ([Citation](https://scholar.google.com/scholar?cites=16018486661840997659&as_sdt=2005&sciodt=0,5&hl=en): 1)
 
-<h3 id="vae_based">Variational Autoencoder Based</h3>
+<h3 id="vae_based">Variational Autoencoder Based Methods</h3>
 
 * Li, Jiwei and Luong, Thang and Jurafsky, Dan. 2015. [A Hierarchical Neural Autoencoder for Paragraphs and Documents](http://aclweb.org/anthology/P15-1107). In *Proceedings of ACL 2015*. ([Citation](https://scholar.google.com/scholar?cites=8614969202104458050&as_sdt=2005&sciodt=0,5&hl=en): 283)
 * Semeniuta, Stanislau and Severyn, Aliaksei and Barth, Erhardt. 2017. [A Hybrid Convolutional Variational Autoencoder for Text Generation](https://arxiv.org/pdf/1702.02390). In *Proceedings of EMNLP 2017*. ([Citation](https://scholar.google.com/scholar?cites=22686147435504388&as_sdt=2005&sciodt=0,5&hl=en): 57)
@@ -71,7 +71,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Xu, Jiacheng and Durrett, Greg. 2018. [Spherical Latent Spaces for Stable Variational Autoencoders](https://aclweb.org/anthology/D18-1480). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=4068019460537216592&as_sdt=2005&sciodt=0,5&hl=en): 6)
 
 
-<h3 id="gan_based">Generative Adversarial Nets Based</h3>
+<h3 id="gan_based">Generative Adversarial Nets Based Methods</h3>
 
 * Kusner, Matt J and Hernández-Lobato, José Miguel. 2016. [GANS for Sequences of Discrete Elements with the Gumbel-softmax Distribution](https://arxiv.org/pdf/1611.04051). *arXiv preprint arXiv:1611.04051*. ([Citation](https://scholar.google.com/scholar?cites=11002066464238691420&as_sdt=2005&sciodt=0,5&hl=en): 71)
 * Gulrajani, Ishaan and Ahmed, Faruk and Arjovsky, Martin and Dumoulin, Vincent and Courville, Aaron C. 2017. [Improved Training of Wasserstein GANs](https://papers.nips.cc/paper/7159-improved-training-of-wasserstein-gans.pdf). In *Proceedings of NIPS 2017*. ([Citation](https://scholar.google.com/scholar?cites=3068694056154618633&as_sdt=2005&sciodt=0,5&hl=en): 1,102)
@@ -83,7 +83,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Mroueh, Youssef and Li, Chun-Liang and Sercu, Tom and Raj, Anant and Cheng, Yu. 2018. [Sobolev GAN](https://arxiv.org/abs/1711.04894). In *Proceedings of ICLR 2018*. ([Citation](https://scholar.google.com/scholar?cites=16587521411741023583&as_sdt=2005&sciodt=0,5&hl=en): 22)
 * Fedus, William and Goodfellow, Ian and Dai, Andrew M. 2018. [MaskGAN: Better Text Generation via Filling in the_](https://arxiv.org/pdf/1801.07736). In *Proceedings of ICLR 2018*. ([Citation](https://scholar.google.com/scholar?cites=8054442901795858629&as_sdt=2005&sciodt=0,5&hl=en): 58) 
 
-<h3 id="rl_based">Reinforcement Learning Based</h3>
+<h3 id="rl_based">Reinforcement Learning Based Methods</h3>
 
 * Lin, Kevin and Li, Dianqi and He, Xiaodong and Zhang, Zhengyou and Sun, Ming-Ting. 2017. [Adversarial Ranking for Language Generation](http://papers.nips.cc/paper/6908-adversarial-ranking-for-language-generation.pdf). In *Proceedings of NIPS 2017*. ([Citation](https://scholar.google.com/scholar?cites=6871069604642164772&as_sdt=2005&sciodt=0,5&hl=en): 54)
 * Che, Tong and Li, Yanran and Zhang, Ruixiang and Hjelm, R Devon and Li, Wenjie and Song, Yangqiu and Bengio, Yoshua. 2017. [Maximum-Likelihood Augmented Discrete Generative Adversarial Networks](https://arxiv.org/pdf/1702.07983). *arXiv preprint arXiv:1702.07983*. ([Citation](https://scholar.google.com/scholar?cites=15378466307857672293&as_sdt=2005&sciodt=0,5&hl=en): 64)
@@ -91,7 +91,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Wang, Xin and Chen, Wenhu and Wang, Yuan-Fang and Wang, William Yang. 2018. [No Metrics Are Prefect: Adversarial Reward Learning for Visual Storytelling](http://aclweb.org/anthology/P18-1083). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=13450499082659265456&as_sdt=2005&sciodt=0,5&hl=en): 19)
 * Hjelm, R Devon and Jacob, Athul Paul and Che, Tong and Trischler, Adam and Cho, Kyunghyun and Bengio, Yoshua. 2018. [Boundary-Seeking Generative Adversarial Networks](https://arxiv.org/pdf/1702.08431). In *Proceedings of ICLR 2018*. ([Citation](https://scholar.google.com/scholar?cites=7554343861717834099&as_sdt=2005&sciodt=0,5&hl=en&scioq=Incorporating+Structured+Commonsense+Knowledge+in+Story+Completion): 52)
 
-<h3 id="kbs_based">Knowledge Based</h3>
+<h3 id="kbs_based">Knowledge Based Methods</h3>
 
 * Liu, Hugo and Singh, Push. 2002. [MAKEBELIEVE: Using Commonsense Knowledge to Generate Stories](https://www.aaai.org/Papers/AAAI/2002/AAAI02-146.pdf). In *Proceedings of AAAI 2002*. ([Citation](https://scholar.google.com/scholar?cites=8122308501089511186&as_sdt=2005&sciodt=0,5&hl=en): 86)
 * Yang, Bishan and Mitchell, Tom. 2017. [Leveraging Knowledge Bases in LSTMs for Improving Machine Reading](http://aclweb.org/anthology/P17-1132). In *Proceedings of ACL 2017*. ([Citation](https://scholar.google.com/scholar?cites=2883250958357294100&as_sdt=2005&sciodt=0,5&hl=en): 36)
