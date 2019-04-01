@@ -17,7 +17,7 @@ This is a text generation reading list by the Tsinghua Natural Language Processi
 
 <h3 id="story_generation">Story Generation</h2>
 
-* [ROCStories](http://cs.rochester.edu/nlp/rocstories/): Mostafazadeh, Nasrin and Chambers, Nathanael and He, Xiaodong and Parikh, Devi and Batra, Dhruv and Vanderwende, Lucy and Kohli, Pushmeet and Allen, James. 2016. [A corpus and evaluation framework for deeper understanding of commonsense stories](https://www.aclweb.org/anthology/N16-1098). In *Proceedings of NAACL 2016*.
+* [ROCStories](http://cs.rochester.edu/nlp/rocstories/): Mostafazadeh, Nasrin and Chambers, Nathanael and He, Xiaodong and Parikh, Devi and Batra, Dhruv and Vanderwende, Lucy and Kohli, Pushmeet and Allen, James. 2016. [A Corpus and Evaluation Framework for Deeper Understanding of Commonsense Stories](https://www.aclweb.org/anthology/N16-1098). In *Proceedings of NAACL 2016*.
 * [VIST](http://visionandlanguage.net/VIST/): Huang, Ting-Hao (Kenneth) and Ferraro, Francis and Mostafazadeh, Nasrin and Misra, Ishan and Agrawal, Aishwarya and Devlin, Jacob and Girshick, Ross and He, Xiaodong and Kohli, Pushmeet and Batra, Dhruv and Zitnick, C. Lawrence and Parikh, Devi and Vanderwende, Lucy and Galley, Michel and Mitchell, Margaret. 2016. [Visual Storytelling](https://www.aclweb.org/anthology/N16-1147v1). In *Proceedings of ACL 2016*.
 * [WritingPrompts](https://dl.fbaipublicfiles.com/fairseq/data/writingPrompts.tar.gz): Fan, Angela and Lewis, Mike and Dauphin, Yann. 2018. [Hierarchical Neural Story Generation](http://aclweb.org/anthology/P18-1082). In *Proceedings of ACL 2018*.
 
