@@ -35,7 +35,7 @@ This is a text generation reading list by the Tsinghua Natural Language Processi
 
 <h3 id="prepare_papers">Prepare Papers</h2>
 
-* Kingma, Diederik P and Welling, Max. 2014. [Auto-encoding variational bayes](https://arxiv.org/pdf/1312.6114). In *Proceedings of ICLR 2014*. ([Citation](https://scholar.google.com/scholar?cites=10486756931164834716&as_sdt=2005&sciodt=0,5&hl=en): 4,317)
+* Kingma, Diederik P and Welling, Max. 2014. [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114). In *Proceedings of ICLR 2014*. ([Citation](https://scholar.google.com/scholar?cites=10486756931164834716&as_sdt=2005&sciodt=0,5&hl=en): 4,317)
 * Ilya Sutskever, Oriol Vinyals, and Quoc V. Le. 2014. [Sequence to Sequence Learning
 with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf). In *Proceedings of NIPS 2014*. ([Citation](https://scholar.google.com/scholar?cites=13133880703797056141&as_sdt=2005&sciodt=0,5&hl=en): 6,076)
 * Goodfellow, Ian and Pouget-Abadie, Jean and Mirza, Mehdi and Xu, Bing and Warde-Farley, David and Ozair, Sherjil and Courville, Aaron and Bengio, Yoshua. 2014. [Generative Adversarial Nets](https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf). In *Proceedings of NIPS 2014*. ([Citation](https://scholar.google.com/scholar?cites=11977070277539609369&as_sdt=2005&sciodt=0,5&hl=en): 7,952)
