@@ -8,7 +8,7 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
     * [Text Generation](#text_generation)
 * [Tools](#tools)
 * [Papers](#papers)
-    * [Prepare Papers](#prepare_papers)
+    * [Related Papers](#prepare_papers)
     * [Seq2Seq Based Methods](#seq2seq_based)
     * [Variational Autoencoder Based Methods](#vae_based)
     * [Generative Adversarial Nets Based Methods](#gan_based)
@@ -35,7 +35,7 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 
 <h2 id="papers">Papers</h2>
 
-<h3 id="prepare_papers">Prepare Papers</h2>
+<h3 id="prepare_papers">Related Papers</h2>
 
 * Kingma, Diederik P and Welling, Max. 2014. [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114). In *Proceedings of ICLR 2014*. ([Citation](https://scholar.google.com/scholar?cites=10486756931164834716&as_sdt=2005&sciodt=0,5&hl=en): 4,317)
 * Ilya Sutskever, Oriol Vinyals, and Quoc V. Le. 2014. [Sequence to Sequence Learning
