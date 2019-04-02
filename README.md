@@ -90,6 +90,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Xu, Jingjing and Zhang, Yi and Zeng, Qi and Ren, Xuancheng and Cai, Xiaoyan and Sun, Xu. 2018. [A Skeleton-Based Model for Promoting Coherence Among Sentences in Narrative Story Generation](https://arxiv.org/pdf/1808.06945). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=12919425531135632296&as_sdt=2005&sciodt=0,5&hl=en): 4)
 * Wang, Xin and Chen, Wenhu and Wang, Yuan-Fang and Wang, William Yang. 2018. [No Metrics Are Prefect: Adversarial Reward Learning for Visual Storytelling](http://aclweb.org/anthology/P18-1083). In *Proceedings of ACL 2018*. ([Citation](https://scholar.google.com/scholar?cites=13450499082659265456&as_sdt=2005&sciodt=0,5&hl=en): 19)
 * Hjelm, R Devon and Jacob, Athul Paul and Che, Tong and Trischler, Adam and Cho, Kyunghyun and Bengio, Yoshua. 2018. [Boundary-Seeking Generative Adversarial Networks](https://arxiv.org/pdf/1702.08431). In *Proceedings of ICLR 2018*. ([Citation](https://scholar.google.com/scholar?cites=7554343861717834099&as_sdt=2005&sciodt=0,5&hl=en&scioq=Incorporating+Structured+Commonsense+Knowledge+in+Story+Completion): 52)
+* Shi, Zhan and Chen, Xinchi and Qiu, Xipeng and Huang, Xuanjing. 2018. [Towards Diverse Text Generation with Inverse Reinforcement Learning](https://arxiv.org/pdf/1804.11258). In *Proceedings of IJCAI 2018*. ([Citation](https://scholar.google.com/scholar?cites=10639156588114407661&as_sdt=2005&sciodt=0,5&hl=en): 4)
 
 <h3 id="kbs_based">Knowledge Based Methods</h3>
 
