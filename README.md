@@ -1,6 +1,8 @@
 # Text Generation Reading List
 This is a text generation reading list by the Tsinghua Natural Language Processing Group.
 
+We will keep adding papers and improving the list. Any suggestions are welcome!
+
 * [Datasets](#datasets)
     * [Story Generation](#story_generation)
     * [Text Generation](#text_generation)
