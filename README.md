@@ -28,6 +28,7 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 * [Yelp Review Generation Dataset](https://drive.google.com/open?id=1xCt04xWrVhbrSA7T5feV2WSukjmD4SnK): Xu, Jingjing and Ren, Xuancheng and Lin, Junyang and Sun, Xu. 2018. [Diversity-Promoting GAN: A Cross-Entropy Based Generative Adversarial Network for Diversified Text Generation](http://www.aclweb.org/anthology/D18-1428). In *Proceedings of EMNLP 2018*.
 * [Amazon Review Generation Dataset](https://s3.amazonaws.com/amazon-reviews-pds/readme.html): McAuley, Julian John and Leskovec, Jure. 2013. [From Amateurs to Connoisseurs: Modeling The Evolution of User Expertise Through Online Reviews](https://arxiv.org/pdf/1303.4402). In *Proceedings of WWW 2013*.
 * [ACL Title and Abstract Dataset](https://github.com/EagleW/ACL_titles_abstracts_dataset): Wang, Qingyun and Zhou, Zhihao and Huang, Lifu and Whitehead, Spencer and Zhang, Boliang and Ji, Heng and Knight, Kevin. 2018. [Paper Abstract Writing through Editing Mechanism](https://aclweb.org/anthology/P18-2042). In *Proceedings of ACL 2018*.
+* [AGENDA Dataset](https://github.com/rikdz/GraphWriter): Rik, Koncel-Kedziorski and Dhanush, Bekal and Yi, Luan and Mirella, Lapata and Hannaneh, Hajishirzi. 2019. [Text Generation from Knowledge Graphs with Graph Transformers](https://arxiv.org/pdf/1904.02342). In *Proceedings of NAACL 2019*.
 
 <h2 id="tools">Tools</h2>
 
