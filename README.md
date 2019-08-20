@@ -67,6 +67,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Welleck, Sean and Brantley, Kianté and Daumé III, Hal and Cho, Kyunghyun. 2019. [Non-Monotonic Sequential Text Generation](https://arxiv.org/pdf/1902.02192). *arXiv preprint arXiv:1902.02192*. ([Citation](https://scholar.google.com/scholar?cites=16018486661840997659&as_sdt=2005&sciodt=0,5&hl=en): 1)
 * Amit, Moryossef and Yoav, Goldberg and Ido, Dagan. 2019. [Step-by-Step: Separating Planning from Realization in Neural Data to Text Generation](https://arxiv.org/pdf/1904.03396). In *Proceedings of NAACL 2019*.
 * Sheng, Shen and Daniel, Fried and Jacob, Andreas and Dan, Klein. 2019. [Pragmatically Informative Text Generation](https://arxiv.org/pdf/1904.01301). In *Proceedings of NAACL 2019*.
+* Fan, Angela and Lewis, Mike and Dauphin, Yann. 2019. [Strategies for Structuring Story Generation](https://www.aclweb.org/anthology/P19-1254). In *Proceedings of ACL 2019*.
 
 <h3 id="vae_based">Variational Autoencoder Based Methods</h3>
 
@@ -81,7 +82,8 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Xu, Jiacheng and Durrett, Greg. 2018. [Spherical Latent Spaces for Stable Variational Autoencoders](https://aclweb.org/anthology/D18-1480). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=4068019460537216592&as_sdt=2005&sciodt=0,5&hl=en): 6)
 * Wenlin, Wang and Zhe, Gan and Hongteng, Xu and Ruiyi, Zhang and Guoyin, Wang and Dinghan, Shen and Changyou, Chen and Lawrence, Carin. 2019. [Topic-Guided Variational Auto-Encoder for Text Generation](https://arxiv.org/pdf/1903.07137). In *Proceedings of NAACL 2019*.
 * Bahuleyan, Hareesh and Mou, Lili and Vamaraju, Kartik and Zhou, Hao and Vechtomova, Olga. 2019. [Probabilistic Natural Language Generation with Wasserstein Autoencoders](https://arxiv.org/pdf/1806.08462). In *Proceedings of NAACL 2019*. ([Citation](https://scholar.google.com/scholar?cites=17386155724233565752&as_sdt=2005&sciodt=0,5&hl=en): 3)
-
+* Zhang, Xinyuan and Yang, Yi and Yuan, Siyang and Shen, Dinghan and Carin, Lawrence. 2019. [Syntax-Infused Variational Autoencoder for Text Generation](https://www.aclweb.org/anthology/P19-1199). In *Proceedings of ACL 2019*.
+* Shen, Dinghan and Celikyilmaz, Asli and Zhang, Yizhe and Chen, Liqun and Wang, Xin and Gao, Jianfeng and Carin, Lawrence. 2019. [Towards Generating Long and Coherent Text with Multi-Level Latent Variable Models](https://www.aclweb.org/anthology/P19-1200). In *Proceedings of ACL 2019*.
 
 <h3 id="gan_based">Generative Adversarial Nets Based Methods</h3>
 
@@ -93,7 +95,8 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Guo, Jiaxian and Lu, Sidi and Cai, Han and Zhang, Weinan and Yu, Yong and Wang, Jun. 2017. [Long Text Generation via Adversarial Training with Leaked Information](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/16360/16061). In *Proceedings of AAAI 2018*. ([Citation](https://scholar.google.com/scholar?cites=10032525507167574810&as_sdt=2005&sciodt=0,5&hl=en): 46)
 * Xu, Jingjing and Ren, Xuancheng and Lin, Junyang and Sun, Xu. 2018. [Diversity-Promoting GAN: A Cross-Entropy Based Generative Adversarial Network for Diversified Text Generation](http://www.aclweb.org/anthology/D18-1428). In *Proceedings of EMNLP 2018*. ([Citation](https://scholar.google.com/scholar?cites=7729303371257026386&as_sdt=2005&sciodt=0,5&hl=en): 2)
 * Mroueh, Youssef and Li, Chun-Liang and Sercu, Tom and Raj, Anant and Cheng, Yu. 2018. [Sobolev GAN](https://arxiv.org/abs/1711.04894). In *Proceedings of ICLR 2018*. ([Citation](https://scholar.google.com/scholar?cites=16587521411741023583&as_sdt=2005&sciodt=0,5&hl=en): 22)
-* Fedus, William and Goodfellow, Ian and Dai, Andrew M. 2018. [MaskGAN: Better Text Generation via Filling in the_](https://arxiv.org/pdf/1801.07736). In *Proceedings of ICLR 2018*. ([Citation](https://scholar.google.com/scholar?cites=8054442901795858629&as_sdt=2005&sciodt=0,5&hl=en): 58) 
+* Fedus, William and Goodfellow, Ian and Dai, Andrew M. 2018. [MaskGAN: Better Text Generation via Filling in the_](https://arxiv.org/pdf/1801.07736). In *Proceedings of ICLR 2018*. ([Citation](https://scholar.google.com/scholar?cites=8054442901795858629&as_sdt=2005&sciodt=0,5&hl=en): 58)
+* Chen, Francine and Chen, Yan-Ying. 2019. [Adversarial Domain Adaptation Using Artificial Titles for Abstractive Title Generation](https://www.aclweb.org/anthology/P19-1211). In *Proceedings of ACL 2019*.
 
 <h3 id="rl_based">Reinforcement Learning Based Methods</h3>
 
@@ -105,6 +108,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Shi, Zhan and Chen, Xinchi and Qiu, Xipeng and Huang, Xuanjing. 2018. [Towards Diverse Text Generation with Inverse Reinforcement Learning](https://arxiv.org/pdf/1804.11258). In *Proceedings of IJCAI 2018*. ([Citation](https://scholar.google.com/scholar?cites=10639156588114407661&as_sdt=2005&sciodt=0,5&hl=en): 4)
 * Subramanian, Sandeep and Mudumba, Sai Rajeswar and Sordoni, Alessandro and Trischler, Adam and Courville, Aaron C and Pal, Chris. 2018. [Towards Text Generation with Adversarially Learned Neural Outlines](https://papers.nips.cc/paper/7983-towards-text-generation-with-adversarially-learned-neural-outlines.pdf). In *Advances in NIPS 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=9808478999936203014&as_sdt=2005&sciodt=0,5&hl=en): 2)
 * Kazuma, Hashimoto and Yoshimasa, Tsuruoka. 2019. [Accelerated Reinforcement Learning for Sentence Generation by Vocabulary Prediction](https://arxiv.org/pdf/1809.01694). In *Proceedings of NAACL 2019*.
+* Chan, Hou Pong and Chen, Wang and Wang, Lu and King, Irwin. 2019. [Neural Keyphrase Generation via Reinforcement Learning with Adaptive Rewards](https://www.aclweb.org/anthology/P19-1208). In *Proceedings of ACL 2019*.
 
 <h3 id="kbs_based">Knowledge Based Methods</h3>
 
