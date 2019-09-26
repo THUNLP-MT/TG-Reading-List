@@ -38,6 +38,7 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 * Zhu, Yaoming and Lu, Sidi and Zheng, Lei and Guo, Jiaxian and Zhang, Weinan and Wang, Jun and Yu, Yong. 2018. [Textgen: A Benchmarking Platform for Text Generation Models](https://arxiv.org/pdf/1802.01886). In *Proceedings of SIGIR 2018*. ([GitHub](https://github.com/geek-ai/Texygen))
 * Radford, Alec and Wu, Jeffrey and Child, Rewon and Luan, David and Amodei, Dario and Sutskever, Ilya. 2019. [Language models are unsupervised multitask learners](https://www.techbooky.com/wp-content/uploads/2019/02/Better-Language-Models-and-Their-Implications.pdf). *OpenAI Blog*, 1:8. ([GitHub](https://github.com/openai/gpt-2))
 * Seraphina, Goldfarb-Tarrant and Haining, Feng and Nanyun, Peng. 2019. [Plan, Write, and Revise: an Interactive System for Open-Domain Story Generation](https://arxiv.org/pdf/1904.02357). In *Proceedings of NAACL-HLT 2019*. ([GitHub](https://github.com/seraphinatarrant/plan-write-revise))
+* Xu, Qiongkai and Xu, Chenchen and Qu, Lizhen. 2019. [ALTER: Auxiliary Text Rewriting Tool for Neural Language Generation](https://arxiv.org/pdf/1909.06564). In *Proceedings of EMNLP 2018 (Demo)*. ([Github](https://github.com/xuqiongkai/ALTER.))
 
 <h2 id="papers">Papers</h2>
 
@@ -70,6 +71,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Amit, Moryossef and Yoav, Goldberg and Ido, Dagan. 2019. [Step-by-Step: Separating Planning from Realization in Neural Data to Text Generation](https://arxiv.org/pdf/1904.03396). In *Proceedings of NAACL-HLT 2019*.
 * Sheng, Shen and Daniel, Fried and Jacob, Andreas and Dan, Klein. 2019. [Pragmatically Informative Text Generation](https://arxiv.org/pdf/1904.01301). In *Proceedings of NAACL-HLT 2019*.
 * Fan, Angela and Lewis, Mike and Dauphin, Yann. 2019. [Strategies for Structuring Story Generation](https://www.aclweb.org/anthology/P19-1254). In *Proceedings of ACL 2019*.
+* Wang, Liang and Zhao, Wei and Jia, Ruoyu and Li, Sujian and Liu, Jingming. 2019. [Denoising based Sequence-to-Sequence Pre-training for Text Generation](https://arxiv.org/pdf/1908.08206). In *Proceedings of EMNLP 2019*. [[code](https://github.com/yuantiku/PoDA)]
 
 <h3 id="vae_based">Variational Autoencoder Based Methods</h3>
 
@@ -88,6 +90,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Gu, Xiaodong and Cho, Kyunghyun and Ha, Jung-Woo and Kim, Sunghun. 2019. [DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder](https://openreview.net/pdf?id=BkgBvsC9FQ). In *Proceedings of ICLR 2019*. ([Citation](https://scholar.google.com.hk/scholar?newwindow=1&safe=strict&hl=en&uact=5&um=1&ie=UTF-8&lr&cites=3591710081490434640): 9)
 * Zhang, Xinyuan and Yang, Yi and Yuan, Siyang and Shen, Dinghan and Carin, Lawrence. 2019. [Syntax-Infused Variational Autoencoder for Text Generation](https://www.aclweb.org/anthology/P19-1199). In *Proceedings of ACL 2019*.
 * Shen, Dinghan and Celikyilmaz, Asli and Zhang, Yizhe and Chen, Liqun and Wang, Xin and Gao, Jianfeng and Carin, Lawrence. 2019. [Towards Generating Long and Coherent Text with Multi-Level Latent Variable Models](https://www.aclweb.org/anthology/P19-1200). In *Proceedings of ACL 2019*.
+* Shao, Zhihong and Huang, Minlie and Wen, Jiangtao and Xu, Wenfei and Zhu, Xiaoyan. 2019. [Long and Diverse Text Generation with Planning-based Hierarchical Variational Model](https://arxiv.org/pdf/1908.06605v2). [[code](https://github.com/ZhihongShao/Planning-based-Hierarchical-Variational-Model)]
 
 <h3 id="gan_based">Generative Adversarial Nets Based Methods</h3>
 
@@ -103,6 +106,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Li, Jianing and Lan, Yanyan and Guo, Jiafeng and Xu, Jun and Cheng, Xueqi. 2019. [Differentiated Distribution Recovery for Neural Text Generation](https://www.aaai.org/ojs/index.php/AAAI/article/view/4639/4517). In *Proceedings of AAAI 2019*.
 * Nie, Weili and Narodytska, Nina and Patel, Ankit. 2019. [RelGAN: Relational Generative Adversarial Networks for Text Generation](https://openreview.net/pdf?id=rJedV3R5tm). In *Proceedings of ICLR 2019*. ([Citation](https://scholar.google.com.hk/scholar?cites=8523757541722331979&as_sdt=2005&sciodt=0,5&hl=en&newwindow=1): 5)
 * Chen, Francine and Chen, Yan-Ying. 2019. [Adversarial Domain Adaptation Using Artificial Titles for Abstractive Title Generation](https://www.aclweb.org/anthology/P19-1211). In *Proceedings of ACL 2019*.
+* Ke, Pei and Huang, Fei and Huang, Minlie and Zhu, Xiaoyan. 2019. [ARAML: A Stable Adversarial Training Framework for Text Generation](https://arxiv.org/pdf/1908.07195v1). In *Proceedings of EMNLP 2019*. [[code]( https://github.com/kepei1106/ARAML.)]
 
 <h3 id="rl_based">Reinforcement Learning Based Methods</h3>
 
@@ -160,3 +164,4 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Remi Mir,  Bjarke Felbo, Nick Obradovich,  Iyad Rahwan. 2019. [Evaluating Style Transfer for Text](https://arxiv.org/pdf/1904.02295.pdf). In *Proceedings of NAACL 2019*.
 * Ning Dai, Jianze Liang, Xipeng Qiu, Xuanjing Huang. 2019. [Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation](https://arxiv.org/pdf/1905.05621.pdf). In *Proceedings of ACL 2019*. [[code]( https://github.com/fastnlp/fastNLP)]
 * Chen Wu, Xuancheng Ren, Fuli Luo, Xu Sun. 2019. [A Hierarchical Reinforced Sequence Operation Method for Unsupervised Text Style Transfer](https://arxiv.org/pdf/1906.01833.pdf). In *Proceedings of ACL 2019*. [[code]( https://github.com/ChenWu98/Point-Then-Operate)]
+* Sudhakar, Akhilesh and Upadhyay, Bhargav and Maheswaran, Arjun. 2019. [Transforming Delete, Retrieve, Generate Approach for Controlled Text Style Transfer](https://arxiv.org/pdf/1908.09368v1). In *Proceedings of EMNLP 2019*. [[code](https://github.com/agaralabs/transformer-drg-styletransfer)]
