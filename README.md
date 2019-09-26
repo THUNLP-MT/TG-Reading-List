@@ -38,7 +38,7 @@ We will keep adding papers and improving the list. Any suggestions are welcome!
 * Zhu, Yaoming and Lu, Sidi and Zheng, Lei and Guo, Jiaxian and Zhang, Weinan and Wang, Jun and Yu, Yong. 2018. [Textgen: A Benchmarking Platform for Text Generation Models](https://arxiv.org/pdf/1802.01886). In *Proceedings of SIGIR 2018*. ([GitHub](https://github.com/geek-ai/Texygen))
 * Radford, Alec and Wu, Jeffrey and Child, Rewon and Luan, David and Amodei, Dario and Sutskever, Ilya. 2019. [Language models are unsupervised multitask learners](https://www.techbooky.com/wp-content/uploads/2019/02/Better-Language-Models-and-Their-Implications.pdf). *OpenAI Blog*, 1:8. ([GitHub](https://github.com/openai/gpt-2))
 * Seraphina, Goldfarb-Tarrant and Haining, Feng and Nanyun, Peng. 2019. [Plan, Write, and Revise: an Interactive System for Open-Domain Story Generation](https://arxiv.org/pdf/1904.02357). In *Proceedings of NAACL-HLT 2019*. ([GitHub](https://github.com/seraphinatarrant/plan-write-revise))
-* Xu, Qiongkai and Xu, Chenchen and Qu, Lizhen. 2019. [ALTER: Auxiliary Text Rewriting Tool for Neural Language Generation](https://arxiv.org/pdf/1909.06564). In *Proceedings of EMNLP 2018 (Demo)*. ([Github](https://github.com/xuqiongkai/ALTER.))
+* Xu, Qiongkai and Xu, Chenchen and Qu, Lizhen. 2019. [ALTER: Auxiliary Text Rewriting Tool for Neural Language Generation](https://arxiv.org/pdf/1909.06564). In *Proceedings of EMNLP 2018 (Demo)*. ([GitHub](https://github.com/xuqiongkai/ALTER.))
 
 <h2 id="papers">Papers</h2>
 
