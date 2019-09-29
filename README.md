@@ -90,7 +90,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Gu, Xiaodong and Cho, Kyunghyun and Ha, Jung-Woo and Kim, Sunghun. 2019. [DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder](https://openreview.net/pdf?id=BkgBvsC9FQ). In *Proceedings of ICLR 2019*. ([Citation](https://scholar.google.com.hk/scholar?newwindow=1&safe=strict&hl=en&uact=5&um=1&ie=UTF-8&lr&cites=3591710081490434640): 9)
 * Zhang, Xinyuan and Yang, Yi and Yuan, Siyang and Shen, Dinghan and Carin, Lawrence. 2019. [Syntax-Infused Variational Autoencoder for Text Generation](https://www.aclweb.org/anthology/P19-1199). In *Proceedings of ACL 2019*.
 * Shen, Dinghan and Celikyilmaz, Asli and Zhang, Yizhe and Chen, Liqun and Wang, Xin and Gao, Jianfeng and Carin, Lawrence. 2019. [Towards Generating Long and Coherent Text with Multi-Level Latent Variable Models](https://www.aclweb.org/anthology/P19-1200). In *Proceedings of ACL 2019*.
-* Shao, Zhihong and Huang, Minlie and Wen, Jiangtao and Xu, Wenfei and Zhu, Xiaoyan. 2019. [Long and Diverse Text Generation with Planning-based Hierarchical Variational Model](https://arxiv.org/pdf/1908.06605v2). [[code](https://github.com/ZhihongShao/Planning-based-Hierarchical-Variational-Model)]
+* Shao, Zhihong and Huang, Minlie and Wen, Jiangtao and Xu, Wenfei and Zhu, Xiaoyan. 2019. [Long and Diverse Text Generation with Planning-based Hierarchical Variational Model](https://arxiv.org/pdf/1908.06605v2). In *Proceedings of EMNLP 2019*. [[code](https://github.com/ZhihongShao/Planning-based-Hierarchical-Variational-Model)]
 
 <h3 id="gan_based">Generative Adversarial Nets Based Methods</h3>
 
