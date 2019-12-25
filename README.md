@@ -73,6 +73,8 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Sheng, Shen and Daniel, Fried and Jacob, Andreas and Dan, Klein. 2019. [Pragmatically Informative Text Generation](https://arxiv.org/pdf/1904.01301). In *Proceedings of NAACL-HLT 2019*.
 * Fan, Angela and Lewis, Mike and Dauphin, Yann. 2019. [Strategies for Structuring Story Generation](https://www.aclweb.org/anthology/P19-1254). In *Proceedings of ACL 2019*.
 * Wang, Liang and Zhao, Wei and Jia, Ruoyu and Li, Sujian and Liu, Jingming. 2019. [Denoising based Sequence-to-Sequence Pre-training for Text Generation](https://arxiv.org/pdf/1908.08206). In *Proceedings of EMNLP 2019*. [[code](https://github.com/yuantiku/PoDA)]
+* Welleck, Sean and Kulikov, Ilia and Roller, Stephen and Dinan, Emily and Cho, Kyunghyun and Weston, Jason. 2020. [Neural Text Generation With Unlikelihood Training](https://arxiv.org/pdf/1908.04319). In *Proceedings of ICLR 2020*. [[code](https://github.com/facebookresearch/unlikelihood_training)] ([Citation](https://scholar.google.com/scholar?cites=16638535268657480159&as_sdt=2005&sciodt=0,5&hl=en): 3)
+* Li, Zuchao and Wang, Rui and Chen, Kehai and Utiyama, Masso and Sumita, Eiichiro and Zhang, Zhuosheng and Zhao, Hai. 2020. [Data-dependent Gaussian Prior Objective for Language Generation](https://openreview.net/pdf?id=S1efxTVYDr). In *Proceedings of ICLR 2020*.
 
 <h3 id="vae_based">Variational Autoencoder Based Methods</h3>
 
@@ -111,6 +113,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Nie, Weili and Narodytska, Nina and Patel, Ankit. 2019. [RelGAN: Relational Generative Adversarial Networks for Text Generation](https://openreview.net/pdf?id=rJedV3R5tm). In *Proceedings of ICLR 2019*. ([Citation](https://scholar.google.com.hk/scholar?cites=8523757541722331979&as_sdt=2005&sciodt=0,5&hl=en&newwindow=1): 5)
 * Chen, Francine and Chen, Yan-Ying. 2019. [Adversarial Domain Adaptation Using Artificial Titles for Abstractive Title Generation](https://www.aclweb.org/anthology/P19-1211). In *Proceedings of ACL 2019*.
 * Ke, Pei and Huang, Fei and Huang, Minlie and Zhu, Xiaoyan. 2019. [ARAML: A Stable Adversarial Training Framework for Text Generation](https://arxiv.org/pdf/1908.07195v1). In *Proceedings of EMNLP 2019*. [[code]( https://github.com/kepei1106/ARAML.)]
+* Zhou, Wangchunshu and Ge, Tao and Xu, Ke and Wei, Furu and Zhou, Ming. 2020. [Self-Adversarial Learning with Comparative Discrimination for Text Generation](https://openreview.net/pdf?id=B1l8L6EtDS). In *Proceedings of ICLR 2020*.
 
 <h3 id="rl_based">Reinforcement Learning Based Methods</h3>
 
@@ -125,6 +128,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Huang, Qiuyuan and Gan, Zhe and Celikyilmaz, Asli and Wu, Dapeng and Wang, Jianfeng and He, Xiaodong. 2019. [Hierarchically Structured Reinforcement Learning for Topically Coherent Visual Story Generation](https://aaai.org/ojs/index.php/AAAI/article/view/4863/4736). In *Proceedings of AAAI 2019*. ([Citation](https://scholar.google.com.hk/scholar?cites=7753557183070599302&as_sdt=2005&sciodt=0,5&hl=en&newwindow=1): 9)
 * Kazuma, Hashimoto and Yoshimasa, Tsuruoka. 2019. [Accelerated Reinforcement Learning for Sentence Generation by Vocabulary Prediction](https://arxiv.org/pdf/1809.01694). In *Proceedings of NAACL-HLT 2019*.
 * Chan, Hou Pong and Chen, Wang and Wang, Lu and King, Irwin. 2019. [Neural Keyphrase Generation via Reinforcement Learning with Adaptive Rewards](https://www.aclweb.org/anthology/P19-1208). In *Proceedings of ACL 2019*.
+* Chen, Yu and Wu, Lingfei and Zaki, Mohammed J. 2020. [Reinforcement Learning Based Graph-to-Sequence Model for Natural Question Generation](https://arxiv.org/pdf/1908.04942.pdf). [[code](https://github.com/hugochan/RL-based-Graph2Seq-for-NQG)] ([Citation](https://scholar.google.com/scholar?cites=5519507630710292821&as_sdt=2005&sciodt=0,5&hl=en): 1)
 
 <h3 id="kbs_based">Knowledge Based Methods</h3>
 
@@ -141,6 +145,7 @@ with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-lea
 * Yang, Pengcheng and Luo, Fuli and Chen, Peng and Li, Lei and Chang, Baobao and Sui, Zhifang and Sun, Xu. 2019. [Knowledgeable Storyteller: A Commonsense-Driven Generative Model for Visual Storytelling](https://www.ijcai.org/proceedings/2019//0744.pdf). In *Proceedings of IJCAI 2019*.
 * Yang, Pengcheng and Li, Lei and Luo, Fuli and Liu, Tianyu and Sun, Xu. 2019. [Enhancing Topic-to-Essay Generation with External Commonsense Knowledge](https://www.aclweb.org/anthology/P19-1193). In *Proceedings of ACL 2019*.
 * Mao, Huanru Henry and Majumder, Bodhisattwa Prasad and McAuley, Julian and Cottrell, Garrison. 2019. [Improving Neural Story Generation by Targeted Common Sense Grounding](https://www.aclweb.org/anthology/D19-1615.pdf). In *Proceedings of EMNLP 2019*. [[code]( https://github.com/calclavia/story-generation)] ([Citation](https://scholar.google.com/scholar?cites=2364018610868616832&as_sdt=2005&sciodt=0,5&hl=en&newwindow=1): 1)
+* Zhao, Xueliang and Wu, Wei and Tao, Chongyang and Xu, Can and Zhao, Dongyan and Yan, Rui. 2020. [Low-Resource Knowledge-Grounded Dialogue Generation](https://openreview.net/pdf?id=rJeIcTNtvS). In *Proceedings of ICLR 2020*.
 
 <h3 id="style_transfer">Style Transfer</h3>
 
