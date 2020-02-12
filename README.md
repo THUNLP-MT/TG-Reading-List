@@ -1,5 +1,5 @@
 # Text Generation Reading List
-This is a text generation reading list maintain by the Tsinghua Natural Language Processing Group.
+This is a text generation reading list maintained by the Tsinghua Natural Language Processing Group.
 
 We will keep adding papers and improving the list. Any suggestions are welcome!
 
